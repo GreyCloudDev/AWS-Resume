@@ -143,7 +143,7 @@ Application can also be viewd by using the View Demo button at the top
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-This project is created as a use for a Todo List. 
+This project is created as a use for a personal site.
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
