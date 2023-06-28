@@ -80,7 +80,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-![Product Name Screen Shot](https://imgur.com/a/Ie9mKuS)
+![Product Name Screen Shot](https://i.imgur.com/s6lmYP4.png)
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
