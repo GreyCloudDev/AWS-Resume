@@ -154,8 +154,7 @@ This project is created as a use for a Todo List.
 ## Roadmap
 
 - [ ] Create a better User Experience
-- [ ] Make the application more mobile friendly
-- [ ] Make the application more secure in terms of passwords and usernames
+- [ ] Add preview images of created projects
 
 See the [open issues](https://github.com/GreyCloudDev/AWS-Resume/issues) for a full list of proposed features (and known issues).
 
