@@ -216,7 +216,7 @@ Project Link: [https://github.com/GreyCloudDev/AWS-Resume](https://github.com/Gr
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
-For inspiration, images and code snippets used in the creation of this blog website.
+For inspiration, images and code snippets used in the creation of this site.
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
